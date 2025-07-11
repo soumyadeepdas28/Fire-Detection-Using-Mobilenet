@@ -8,6 +8,10 @@ In this project, I used TensorFlow Keras to create and train a deep learning mod
 
 !(<"image\Screenshot 2025-07-11 194150.png">)
 
+**Training and Validation**
+
+!(<"image\fire detect train.png">)
+
 **Testing**
 
 Here 0 denotes Fire and 1 denotes Non-Fire
