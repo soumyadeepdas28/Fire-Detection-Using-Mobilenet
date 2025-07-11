@@ -6,19 +6,19 @@ In this project, I used TensorFlow Keras to create and train a deep learning mod
 
 **Model Architecture**
 
-!(<image\Screenshot 2025-07-11 194150.png>)
+![](<image\Screenshot 2025-07-11 194150.png>)
 
 **Training and Validation**
 
-!(<image\fire detect train.png>)
+![](<image\fire detect train.png>)
 
 **Testing**
 
 Here 0 denotes Fire and 1 denotes Non-Fire
 
-!(<image\Screenshot 2025-07-11 190445.png>)
+![](<image\Screenshot 2025-07-11 190445.png>)
 
-!(<image\Screenshot 2025-07-11 190501.png>)
+![](<image\Screenshot 2025-07-11 190501.png>)
 
 
 
